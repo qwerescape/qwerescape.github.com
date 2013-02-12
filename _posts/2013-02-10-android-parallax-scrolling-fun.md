@@ -2,11 +2,10 @@
 layout: post
 title: "Android Parallax Scrolling Fun"
 description: ""
-category: 
-tags: []
+category: "Android"
+tags: [Android,Parallax Scrolling]
 ---
 {% include JB/setup %}
-
 Recently I've been asked to do parallax scrolling, kind of like in the app Path. It turned out to be fairly easy and interesting. I thought I'd share how I did it. I've made a little demo for it on github.  I've borrowed 2 beautiful photos form Adrian Lumani for this project. The photos are here and here. 
 
 The effect of the demo is straight forward. You have a ListView of photos, and its initial and scrolled positions look like these:device-2013-02-09-205614.png
